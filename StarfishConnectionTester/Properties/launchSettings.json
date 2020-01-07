@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StarfishConnectionTester": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
